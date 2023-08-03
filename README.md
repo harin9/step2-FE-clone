@@ -17,8 +17,6 @@
 
 ## 👇 배포 주소
 
-<hr/>
-
 [여기](https://user-app.krampoline.com/ke1747bb20edfa)에서 확인할 수 있습니다.
 
 <br>
@@ -81,8 +79,6 @@
 ## 👀 Project screenshot
 
 ![screenshot](https://github.com/harin9/step2-FE-clone/assets/83578728/163b4c56-71c3-4101-8adb-6f4578c82c44)
-
-<br>
 
 ## 📌 Features
 
